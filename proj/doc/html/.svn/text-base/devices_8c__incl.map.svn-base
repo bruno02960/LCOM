@@ -1,0 +1,12 @@
+<map id="C:/Users/User/lcom/proj/src/devices.c" name="C:/Users/User/lcom/proj/src/devices.c">
+<area shape="rect" id="node2" href="$devices_8h.html" title="Contains functions to make devices subscriptions and unsubscriptions. " alt="" coords="131,95,207,121"/>
+<area shape="rect" id="node3" href="$variables_8h.html" title="Contains list of macros, variables, macros and structs used in the game. " alt="" coords="15,169,98,196"/>
+<area shape="rect" id="node5" href="$keyboard_8h.html" title="Contains keyboard functions. " alt="" coords="517,95,604,121"/>
+<area shape="rect" id="node6" href="$mouse_8h.html" title="Contains mouse functions. " alt="" coords="629,95,701,121"/>
+<area shape="rect" id="node7" href="$timer_8h.html" title="Contains timer functions. " alt="" coords="725,95,788,121"/>
+<area shape="rect" id="node8" href="$video__gr_8h.html" title="Contains functions related to video graphics. " alt="" coords="282,95,362,121"/>
+<area shape="rect" id="node12" href="$vbe_8h.html" title="vbe.h" alt="" coords="393,169,445,196"/>
+<area shape="rect" id="node15" href="$macros_8h.html" title="Contains devices macros. " alt="" coords="691,244,767,271"/>
+<area shape="rect" id="node17" href="$rtc_8h.html" title="Contains rtc functions. " alt="" coords="813,95,861,121"/>
+<area shape="rect" id="node14" href="$lmlib_8h.html" title="lmlib.h" alt="" coords="467,244,527,271"/>
+</map>

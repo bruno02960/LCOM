@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['s_5fpress',['S_PRESS',['../group__macros.html#ga5e384167e31e8cd257bfa21562c7d3cc',1,'macros.h']]],
+  ['score',['score',['../struct_enemy__t.html#aef160b7437d94056f1dc59646cd5b87d',1,'Enemy_t']]],
+  ['score_5fxpm',['Score_xpm',['../group__pixmap.html#ga97e4a5434fcb0d5cc0528e15fe9fd5ae',1,'pixmap.h']]],
+  ['score_5fxpm_5fx',['SCORE_XPM_X',['../variables_8h.html#a1532c992897e9ab56e19d8eecb62f9e0',1,'variables.h']]],
+  ['set_5fstream',['SET_STREAM',['../group__macros.html#ga08006958f5bcad29209b983904b878ee',1,'macros.h']]],
+  ['seven_5fxpm',['Seven_xpm',['../numbers__pixmap_8h.html#a60297221252b78febae1c2a876dce5b4',1,'numbers_pixmap.h']]],
+  ['ship',['ship',['../game_8c.html#a2997e5d5957054029f6c247bd33214a3',1,'ship():&#160;game.c'],['../variables_8h.html#a2997e5d5957054029f6c247bd33214a3',1,'ship():&#160;variables.h']]],
+  ['ship_5fspeed',['SHIP_SPEED',['../variables_8h.html#ab64d9336b81a23baa7b32ba04ad150a5',1,'variables.h']]],
+  ['ship_5ft',['Ship_t',['../struct_ship__t.html',1,'']]],
+  ['ship_5fx_5finitial',['SHIP_X_INITIAL',['../variables_8h.html#af02949fc80f2ff06b2d8f8ccb007aa0b',1,'variables.h']]],
+  ['ship_5fy_5finitial',['SHIP_Y_INITIAL',['../variables_8h.html#a30d3612bf1a63f8c62f31738d74dbd98',1,'variables.h']]],
+  ['six_5fxpm',['Six_xpm',['../numbers__pixmap_8h.html#a5cf47c1395542c72217fc76aebe537d8',1,'numbers_pixmap.h']]],
+  ['size',['size',['../structmmap__t.html#a1e1268d164c38e4f8a4f4eb9058b0601',1,'mmap_t']]],
+  ['spacebar_5fx',['SPACEBAR_X',['../variables_8h.html#ad92236802bb7f1ebcba4d7a273c5b792',1,'variables.h']]],
+  ['spacebar_5fxpm',['Spacebar_xpm',['../group__pixmap.html#gadfde42932f2233e6e1f62282ac245af7',1,'pixmap.h']]],
+  ['spacebar_5fy',['SPACEBAR_Y',['../variables_8h.html#a12b5051c87e8b5159faa5fc311659c4b',1,'variables.h']]],
+  ['spaceinvaders',['spaceinvaders',['../group__spaceinvaders.html',1,'']]],
+  ['spaceinvaders_2ec',['spaceinvaders.c',['../spaceinvaders_8c.html',1,'']]],
+  ['spaceinvaders_2ed',['spaceinvaders.d',['../spaceinvaders_8d.html',1,'']]],
+  ['spaceship_5fxpm',['Spaceship_xpm',['../group__pixmap.html#gad135988a96e77c065657ab54901c39a0',1,'pixmap.h']]],
+  ['spc_5fcod',['SPC_COD',['../group__macros.html#ga2cf4e9c92f55c14332ec34743626b13e',1,'macros.h']]],
+  ['special',['SPECIAL',['../group__macros.html#ga84acb423f634978b61ac46856de40a70',1,'macros.h']]],
+  ['start',['START',['../variables_8h.html#ae2946618e700f814e6147195c808f4c8a13d000b4d7dc70d90239b7430d1eb6b2',1,'variables.h']]],
+  ['start_5fgame',['start_game',['../group__game.html#ga671b58f5509a3a9fa692bacccfc32cc9',1,'start_game():&#160;game.c'],['../group__game.html#ga671b58f5509a3a9fa692bacccfc32cc9',1,'start_game():&#160;game.c']]],
+  ['state_5ft',['State_t',['../variables_8h.html#ae2946618e700f814e6147195c808f4c8',1,'variables.h']]]
+];

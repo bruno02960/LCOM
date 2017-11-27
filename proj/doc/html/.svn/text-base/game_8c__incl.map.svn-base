@@ -1,0 +1,12 @@
+<map id="C:/Users/User/lcom/proj/src/game.c" name="C:/Users/User/lcom/proj/src/game.c">
+<area shape="rect" id="node2" href="$game_8h.html" title="Contains functions related to the operation of the game. " alt="" coords="166,95,231,121"/>
+<area shape="rect" id="node3" href="$video__gr_8h.html" title="Contains functions related to video graphics. " alt="" coords="307,95,387,121"/>
+<area shape="rect" id="node11" href="$macros_8h.html" title="Contains devices macros. " alt="" coords="711,244,787,271"/>
+<area shape="rect" id="node13" href="$variables_8h.html" title="Contains list of macros, variables, macros and structs used in the game. " alt="" coords="5,169,88,196"/>
+<area shape="rect" id="node14" href="$print_8h.html" title="Contains menu and other print functions. " alt="" coords="512,95,571,121"/>
+<area shape="rect" id="node15" href="$pixmap_8h.html" title="Contains pixmaps used in the game. " alt="" coords="595,95,669,121"/>
+<area shape="rect" id="node16" href="$utilities_8h.html" title="Contains utility functions. " alt="" coords="693,95,768,121"/>
+<area shape="rect" id="node17" href="$file__handler_8h.html" title="Contains function to write to the textfile. " alt="" coords="792,95,891,121"/>
+<area shape="rect" id="node8" href="$vbe_8h.html" title="vbe.h" alt="" coords="385,169,437,196"/>
+<area shape="rect" id="node10" href="$lmlib_8h.html" title="lmlib.h" alt="" coords="398,244,458,271"/>
+</map>

@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['eight_5fxpm',['Eight_xpm',['../numbers__pixmap_8h.html#acdbd6640706d98efad642da16c5c2493',1,'numbers_pixmap.h']]],
+  ['enemies',['enemies',['../variables_8h.html#acbda741d106bdbf1d4da6b49e620ff9d',1,'variables.h']]],
+  ['enemy',['enemy',['../game_8c.html#a13b99a61f9d721f9af52c6357ee44dd1',1,'enemy():&#160;game.c'],['../variables_8h.html#a13b99a61f9d721f9af52c6357ee44dd1',1,'enemy():&#160;variables.h']]],
+  ['enemy_5fcollumns',['ENEMY_COLLUMNS',['../variables_8h.html#adc1e3c9371ddd08bdbf1c0af31c79a87',1,'variables.h']]],
+  ['enemy_5fdown_5ftime',['ENEMY_DOWN_TIME',['../variables_8h.html#ae4df4a0e4661da1386d30d00bcd9e3c9',1,'variables.h']]],
+  ['enemy_5fdown_5fy',['ENEMY_DOWN_Y',['../variables_8h.html#acb794a22eec5bb2c20048fe4c46ab2d0',1,'variables.h']]],
+  ['enemy_5fmovedown',['enemy_movedown',['../group__game.html#ga425ea598437d36368c0e136f2be75a61',1,'enemy_movedown():&#160;game.c'],['../group__game.html#ga425ea598437d36368c0e136f2be75a61',1,'enemy_movedown():&#160;game.c']]],
+  ['enemy_5frows',['ENEMY_ROWS',['../variables_8h.html#a65c447e91240f5367f697a7a32263cae',1,'variables.h']]],
+  ['enemy_5ft',['Enemy_t',['../struct_enemy__t.html',1,'']]],
+  ['enter_5fcod',['ENTER_COD',['../group__macros.html#gae6e35a53a9436cbd164fe9e1fdba5295',1,'macros.h']]],
+  ['enter_5fpressed',['ENTER_PRESSED',['../variables_8h.html#ae2946618e700f814e6147195c808f4c8ab4cafb1b8cd4708565e59e0e3caff041',1,'variables.h']]],
+  ['enter_5fxpm',['Enter_xpm',['../group__pixmap.html#gab6442b16ba96b68f0fb2fba58927468f',1,'pixmap.h']]],
+  ['enter_5fxpm_5fx',['ENTER_XPM_X',['../variables_8h.html#a5424972e3a44d31b7f7e82c45fdd295b',1,'variables.h']]],
+  ['esc_5fcod',['ESC_COD',['../group__macros.html#ga87182fcc4d8d97f1ef3020b5e600731d',1,'macros.h']]],
+  ['estado',['estado',['../variables_8h.html#a6c2eba6744a2c6be6d5f76cd0a661346',1,'variables.h']]],
+  ['exit_5fx',['EXIT_X',['../variables_8h.html#aefbb305e5b4d7c7402d158fff6f1c163',1,'variables.h']]],
+  ['exit_5fxpm',['Exit_xpm',['../group__pixmap.html#ga500bb5f945a7e52fbd48d5f2c50f04c4',1,'pixmap.h']]],
+  ['exit_5fy',['EXIT_Y',['../variables_8h.html#a46bb001d1c62f7725f3258824caeb260',1,'variables.h']]]
+];

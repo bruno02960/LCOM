@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['game',['game',['../group__game.html',1,'']]],
+  ['game_2ec',['game.c',['../game_8c.html',1,'']]],
+  ['game_2ed',['game.d',['../game_8d.html',1,'']]],
+  ['game_2eh',['game.h',['../game_8h.html',1,'']]],
+  ['game_5fmodes_5fx',['GAME_MODES_X',['../variables_8h.html#a93a17b0b8d1476d93089dc8a31ccff8b',1,'variables.h']]],
+  ['game_5fmodes_5fxpm',['game_modes_xpm',['../group__pixmap.html#ga923c7ba629353a62d84155f2728ebd86',1,'pixmap.h']]],
+  ['game_5fmodes_5fy',['GAME_MODES_Y',['../variables_8h.html#a9fe0ef19d3b02f8e24dff48de6c75e69',1,'variables.h']]],
+  ['game_5fover',['GAME_OVER',['../variables_8h.html#ae2946618e700f814e6147195c808f4c8a871723195985a4ae22d7e10d99bf8a00',1,'variables.h']]],
+  ['game_5ftitles_5fy',['GAME_TITLES_Y',['../variables_8h.html#a15b036d497e68c15d35f1516bc331435',1,'variables.h']]],
+  ['get_5fstatus',['GET_STATUS',['../group__macros.html#gaeba76c92af8f1a94982ec4cb767452f0',1,'macros.h']]],
+  ['getbitsperpixel',['getBitsPerPixel',['../group__video__gr.html#ga5c30cdd3eab0edd2734ab3871f7000c7',1,'getBitsPerPixel():&#160;video_gr.c'],['../group__video__gr.html#ga5c30cdd3eab0edd2734ab3871f7000c7',1,'getBitsPerPixel():&#160;video_gr.c']]],
+  ['getbuffer',['getBuffer',['../group__video__gr.html#ga1cd7727ad0fc3fe3ffbbb98cd9115c1c',1,'getBuffer():&#160;video_gr.c'],['../group__video__gr.html#ga1cd7727ad0fc3fe3ffbbb98cd9115c1c',1,'getBuffer():&#160;video_gr.c']]],
+  ['getday',['getDay',['../group__rtc.html#gab7e8ff751e63b72d14aa5f7ec727d337',1,'getDay():&#160;rtc.c'],['../group__rtc.html#gab7e8ff751e63b72d14aa5f7ec727d337',1,'getDay():&#160;rtc.c']]],
+  ['gethour',['getHour',['../group__rtc.html#gaa14f12da2be63f2a594cadff28d10f40',1,'getHour():&#160;rtc.c'],['../group__rtc.html#gaa14f12da2be63f2a594cadff28d10f40',1,'getHour():&#160;rtc.c']]],
+  ['gethres',['getHRes',['../group__video__gr.html#gaa55320d571dc2cb8179422a9d8114de0',1,'getHRes():&#160;video_gr.c'],['../group__video__gr.html#gaa55320d571dc2cb8179422a9d8114de0',1,'getHRes():&#160;video_gr.c']]],
+  ['getmin',['getMin',['../group__rtc.html#ga59e635249f9555c53ddc24e54b82f01f',1,'getMin():&#160;rtc.c'],['../group__rtc.html#ga59e635249f9555c53ddc24e54b82f01f',1,'getMin():&#160;rtc.c']]],
+  ['getmonth',['getMonth',['../group__rtc.html#gad751c36263a847ec77044899618cfd66',1,'getMonth():&#160;rtc.c'],['../group__rtc.html#gad751c36263a847ec77044899618cfd66',1,'getMonth():&#160;rtc.c']]],
+  ['getsec',['getSec',['../group__rtc.html#ga57e0eac5ae1c791f2c63b0740ab94e08',1,'getSec():&#160;rtc.c'],['../group__rtc.html#ga57e0eac5ae1c791f2c63b0740ab94e08',1,'getSec():&#160;rtc.c']]],
+  ['getvres',['getVRes',['../group__video__gr.html#ga36218c155eade74951ce7ffd60711a9e',1,'getVRes():&#160;video_gr.c'],['../group__video__gr.html#ga36218c155eade74951ce7ffd60711a9e',1,'getVRes():&#160;video_gr.c']]],
+  ['getyear',['getYear',['../group__rtc.html#ga37f344d06f4e1b826aed5adf7b729fe8',1,'getYear():&#160;rtc.c'],['../group__rtc.html#ga37f344d06f4e1b826aed5adf7b729fe8',1,'getYear():&#160;rtc.c']]],
+  ['greenfieldposition',['GreenFieldPosition',['../struct____attribute____.html#a602b28f8e5da781eabfd736743a6ea09',1,'__attribute__']]],
+  ['greenmasksize',['GreenMaskSize',['../struct____attribute____.html#ac7b4df72e505b74493e7d5144cbac743',1,'__attribute__']]]
+];

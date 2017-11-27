@@ -1,0 +1,51 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$group__devices.html#ga82cf81704efe26b2e078804bfb67f924" title="devices_subscriptions" alt="" coords="472,157,621,184"/>
+<area shape="rect" id="node12" href="$group__print.html#gae91d4cbee2dab64187187499dd0eecd4" title="print_menu" alt="" coords="104,1221,191,1248"/>
+<area shape="rect" id="node46" href="$group__devices.html#ga916e9be5016bede8624ac7c89f9eda8b" title="devices_unsubscriptions" alt="" coords="465,335,628,361"/>
+<area shape="rect" id="node3" href="$group__video__gr.html#gacef21667c79365d57a084bed994c2189" title="Initializes the video module in graphics mode. " alt="" coords="721,107,780,133"/>
+<area shape="rect" id="node7" href="$group__keyboard.html#ga30099edd4f1949ad1e95c8b4cace395d" title="Subscribes and enables Keyboard interruptss. " alt="" coords="697,157,804,184"/>
+<area shape="rect" id="node8" href="$group__timer.html#ga4c5d9f47323eda494cfd826f6d62eec9" title="Subscribes and enables Timer 0 interrupts. " alt="" coords="683,5,818,32"/>
+<area shape="rect" id="node9" href="$group__mouse.html#ga7528b123a3779d689c06876b78a0b91b" title="Subscribes and enables Mouse interruptss. " alt="" coords="689,512,813,539"/>
+<area shape="rect" id="node10" href="$group__mouse.html#ga91fe374b9624fe2a223be3af605b1dd4" title="Sends a command to the mouse. " alt="" coords="688,259,813,285"/>
+<area shape="rect" id="node11" href="$group__rtc.html#gad541628ec8bd836bbd3b2eefd316069b" title="Subscribes and enables Real&#45;Time Clock. " alt="" coords="701,56,801,83"/>
+<area shape="rect" id="node4" href="$group__video__gr.html#ga4ef3234e41f2050bc094a22049b69e45" title="Returns information on the input VBE mode, including screen dimensions, color depth and VRAM physical..." alt="" coords="873,107,1005,133"/>
+<area shape="rect" id="node5" href="$group__lmlib.html#gae45d971ce2ffcf4dc2677eba033a92cd" title="Allocates a memory block in low memory area with the specified size. " alt="" coords="1070,81,1141,108"/>
+<area shape="rect" id="node6" href="$group__lmlib.html#ga73e89d9c297b7390021fb545513579c6" title="Frees a memory block in the low memory area, previously allocated using lm_alloc() ..." alt="" coords="1073,132,1137,159"/>
+<area shape="rect" id="node13" href="$group__video__gr.html#gafa847549e9dc6e4f49f651623bc456dc" title="Clears the buffer. " alt="" coords="895,1728,983,1755"/>
+<area shape="rect" id="node17" href="$group__xpm.html#gac0e395e7e8c65b90f0680c7a917f1acc" title="title_creator" alt="" coords="1399,1196,1490,1223"/>
+<area shape="rect" id="node20" href="$group__video__gr.html#gabdd05df698103c4641478f491e11e284" title="Copies buffer to video_mem. " alt="" coords="1375,1627,1515,1653"/>
+<area shape="rect" id="node21" href="$group__keyboard.html#ga6d2cc119f3d1b28fd79e7acf2f4d4596" title="Reads scancodes via KBD interrupts. " alt="" coords="1405,487,1484,513"/>
+<area shape="rect" id="node22" href="$group__print.html#ga92978930f74831bae9a6d6f22d089615" title="print_menu_kbd_or_mouse" alt="" coords="239,1221,417,1248"/>
+<area shape="rect" id="node45" href="$group__print.html#ga2eb771fa3527f72e821a14e413498d1d" title="print_instructions" alt="" coords="1205,1475,1327,1501"/>
+<area shape="rect" id="node14" href="$group__video__gr.html#gaa55320d571dc2cb8179422a9d8114de0" title="Returns horizontal resolution. " alt="" coords="1723,1196,1795,1223"/>
+<area shape="rect" id="node15" href="$group__video__gr.html#ga36218c155eade74951ce7ffd60711a9e" title="Returns vertical resolution. " alt="" coords="1723,1576,1795,1603"/>
+<area shape="rect" id="node16" href="$group__video__gr.html#ga5c30cdd3eab0edd2734ab3871f7000c7" title="Returns number of bits per pixel. " alt="" coords="1563,1576,1675,1603"/>
+<area shape="rect" id="node18" href="$group__video__gr.html#ga1cd7727ad0fc3fe3ffbbb98cd9115c1c" title="Returns a pointer to Buffer. " alt="" coords="1582,917,1655,944"/>
+<area shape="rect" id="node19" href="$group__xpm.html#ga05b2c5e4dbcaffa701703b50a2111783" title="read_xpm" alt="" coords="1579,1171,1658,1197"/>
+<area shape="rect" id="node23" href="$group__game.html#ga02fd73d861ef2e4aabb38c0c9ff82947" title="Makes game initialization. " alt="" coords="527,1171,566,1197"/>
+<area shape="rect" id="node24" href="$group__xpm.html#gab41dd197773f68e69e18c73a8119ba5e" title="object_creator" alt="" coords="1053,804,1157,831"/>
+<area shape="rect" id="node25" href="$group__mouse.html#gadd35ac18db20624e86b0c104a02fbf0d" title="Unsubscribes Mouse interrupts. " alt="" coords="681,613,820,640"/>
+<area shape="rect" id="node26" href="$group__game.html#ga671b58f5509a3a9fa692bacccfc32cc9" title="Receives drivers interruptions. " alt="" coords="707,867,794,893"/>
+<area shape="rect" id="node36" href="$group__print.html#ga5f04c1438b5689bedddc17eb0dd9d060" title="print_message" alt="" coords="697,1525,804,1552"/>
+<area shape="rect" id="node37" href="$group__print.html#gabbb46faef7390f85ad76868944abcf20" title="print_score" alt="" coords="1062,1221,1149,1248"/>
+<area shape="rect" id="node38" href="$group__file__handler.html#ga90d3bc0149cb0d2782d63aa42cf3fa86" title="write_score" alt="" coords="707,1373,795,1400"/>
+<area shape="rect" id="node27" href="$group__game.html#gaff72f275b5af37960b3baee51f855041" title="Makes a game round, where updating action on screen. " alt="" coords="912,867,967,893"/>
+<area shape="rect" id="node30" href="$group__xpm.html#ga8b990eb150243edd20fb9c4182748528" title="buffer_destructor" alt="" coords="1385,867,1504,893"/>
+<area shape="rect" id="node31" href="$group__game.html#ga425ea598437d36368c0e136f2be75a61" title="Makes enemies down movement. " alt="" coords="875,715,1003,741"/>
+<area shape="rect" id="node32" href="$group__mouse.html#gad34fbf075c41898c2120ed2d0ee6b20f" title="Reads packets from mouse. " alt="" coords="891,917,987,944"/>
+<area shape="rect" id="node33" href="$group__mouse.html#gaab4aa4fb914d5e1046d1391b97091546" title="Checks if the given byte is a mouse byte. " alt="" coords="884,968,995,995"/>
+<area shape="rect" id="node34" href="$group__utilities.html#ga88386f4f23c71aba0d4e995a5246f981" title="Converts a number to its twos complement. " alt="" coords="876,1019,1003,1045"/>
+<area shape="rect" id="node35" href="$group__game.html#ga1fd9e64dab3abe9facfb4dd7e1267bae" title="Creates the pong and switches game state. " alt="" coords="902,765,977,792"/>
+<area shape="rect" id="node28" href="$group__print.html#ga1243268c621c2049a41956ccfc934fd5" title="print_info" alt="" coords="1068,1171,1143,1197"/>
+<area shape="rect" id="node29" href="$group__print.html#ga4316256507429b01e848fd72e5fdca73" title="print_number" alt="" coords="1217,1171,1315,1197"/>
+<area shape="rect" id="node39" href="$group__rtc.html#gab7e8ff751e63b72d14aa5f7ec727d337" title="Returns the day on the Real&#45;Time Clock. " alt="" coords="908,1272,971,1299"/>
+<area shape="rect" id="node40" href="$group__rtc.html#gad751c36263a847ec77044899618cfd66" title="Returns the month on the Real&#45;Time Clock. " alt="" coords="901,1323,977,1349"/>
+<area shape="rect" id="node41" href="$group__rtc.html#ga37f344d06f4e1b826aed5adf7b729fe8" title="Returns the year on the Real&#45;Time Clock. " alt="" coords="906,1373,973,1400"/>
+<area shape="rect" id="node42" href="$group__rtc.html#ga57e0eac5ae1c791f2c63b0740ab94e08" title="Returns the seconds on the Real&#45;Time Clock. " alt="" coords="908,1424,971,1451"/>
+<area shape="rect" id="node43" href="$group__rtc.html#ga59e635249f9555c53ddc24e54b82f01f" title="Returns the minutes on the Real&#45;Time Clock. " alt="" coords="909,1475,970,1501"/>
+<area shape="rect" id="node44" href="$group__rtc.html#gaa14f12da2be63f2a594cadff28d10f40" title="Returns the hour on the Real&#45;Time Clock. " alt="" coords="906,1525,973,1552"/>
+<area shape="rect" id="node47" href="$group__video__gr.html#ga42f593e6656f1a978315aff02b1bcebf" title="Returns to default Minix 3 text mode (0x03: 25 x 80, 16 colors) " alt="" coords="719,411,782,437"/>
+<area shape="rect" id="node48" href="$group__keyboard.html#gafcf3cff9c83e1b29b56258d661f279d0" title="Unsubscribes Keyboard interrupts. " alt="" coords="691,208,811,235"/>
+<area shape="rect" id="node49" href="$group__timer.html#gab9eea51549744bca5c5c923b388bb4ee" title="Unsubscribes Timer 0 interrupts. " alt="" coords="676,309,825,336"/>
+<area shape="rect" id="node50" href="$group__rtc.html#ga8ee1ffb1e38bc735ccf645370fe5b573" title="Unsubscribes Real&#45;Time Clock. " alt="" coords="693,360,808,387"/>
+</map>

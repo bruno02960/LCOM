@@ -1,0 +1,7 @@
+<map id="mouse_subscribe" name="mouse_subscribe">
+<area shape="rect" id="node2" href="$group__devices.html#ga82cf81704efe26b2e078804bfb67f924" title="devices_subscriptions" alt="" coords="279,5,428,32"/>
+<area shape="rect" id="node4" href="$group__game.html#ga02fd73d861ef2e4aabb38c0c9ff82947" title="Makes game initialization. " alt="" coords="177,68,216,95"/>
+<area shape="rect" id="node3" href="$group__spaceinvaders.html#ga3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="625,43,676,69"/>
+<area shape="rect" id="node5" href="$group__print.html#ga92978930f74831bae9a6d6f22d089615" title="print_menu_kbd_or_mouse" alt="" coords="264,80,443,107"/>
+<area shape="rect" id="node6" href="$group__print.html#gae91d4cbee2dab64187187499dd0eecd4" title="print_menu" alt="" coords="491,80,577,107"/>
+</map>

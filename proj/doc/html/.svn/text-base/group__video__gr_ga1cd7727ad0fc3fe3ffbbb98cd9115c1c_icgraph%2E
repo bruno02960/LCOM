@@ -1,0 +1,19 @@
+<map id="getBuffer" name="getBuffer">
+<area shape="rect" id="node2" href="$group__xpm.html#gab41dd197773f68e69e18c73a8119ba5e" title="object_creator" alt="" coords="439,563,543,589"/>
+<area shape="rect" id="node11" href="$group__xpm.html#gac0e395e7e8c65b90f0680c7a917f1acc" title="title_creator" alt="" coords="141,183,231,209"/>
+<area shape="rect" id="node17" href="$group__xpm.html#ga8b990eb150243edd20fb9c4182748528" title="buffer_destructor" alt="" coords="127,411,245,437"/>
+<area shape="rect" id="node3" href="$group__game.html#ga02fd73d861ef2e4aabb38c0c9ff82947" title="Makes game initialization. " alt="" coords="963,208,1001,235"/>
+<area shape="rect" id="node7" href="$group__game.html#ga1fd9e64dab3abe9facfb4dd7e1267bae" title="Creates the pong and switches game state. " alt="" coords="617,613,692,640"/>
+<area shape="rect" id="node8" href="$group__game.html#ga671b58f5509a3a9fa692bacccfc32cc9" title="Receives drivers interruptions. " alt="" coords="777,461,863,488"/>
+<area shape="rect" id="node9" href="$group__game.html#gaff72f275b5af37960b3baee51f855041" title="Makes a game round, where updating action on screen. " alt="" coords="627,411,682,437"/>
+<area shape="rect" id="node10" href="$group__game.html#ga425ea598437d36368c0e136f2be75a61" title="Makes enemies down movement. " alt="" coords="591,512,719,539"/>
+<area shape="rect" id="node4" href="$group__print.html#ga92978930f74831bae9a6d6f22d089615" title="print_menu_kbd_or_mouse" alt="" coords="1091,176,1269,203"/>
+<area shape="rect" id="node5" href="$group__print.html#gae91d4cbee2dab64187187499dd0eecd4" title="print_menu" alt="" coords="1317,176,1404,203"/>
+<area shape="rect" id="node6" href="$group__spaceinvaders.html#ga3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1452,176,1503,203"/>
+<area shape="rect" id="node12" href="$group__print.html#gabbb46faef7390f85ad76868944abcf20" title="print_score" alt="" coords="447,208,534,235"/>
+<area shape="rect" id="node13" href="$group__print.html#ga5f04c1438b5689bedddc17eb0dd9d060" title="print_message" alt="" coords="767,132,873,159"/>
+<area shape="rect" id="node14" href="$group__print.html#ga4316256507429b01e848fd72e5fdca73" title="print_number" alt="" coords="293,309,391,336"/>
+<area shape="rect" id="node16" href="$group__print.html#ga2eb771fa3527f72e821a14e413498d1d" title="print_instructions" alt="" coords="921,5,1043,32"/>
+<area shape="rect" id="node15" href="$group__print.html#ga1243268c621c2049a41956ccfc934fd5" title="print_info" alt="" coords="453,309,528,336"/>
+<area shape="rect" id="node18" href="$group__game.html#ga8aead8655bcc62fb760afdf2fe161ab0" title="Destroys the enemy hit by the pong and desactivates it. " alt="" coords="451,411,530,437"/>
+</map>

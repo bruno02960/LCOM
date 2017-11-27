@@ -1,0 +1,10 @@
+<map id="write_score" name="write_score">
+<area shape="rect" id="node2" href="$group__rtc.html#gab7e8ff751e63b72d14aa5f7ec727d337" title="Returns the day on the Real&#45;Time Clock. " alt="" coords="148,5,211,32"/>
+<area shape="rect" id="node5" href="$group__rtc.html#gad751c36263a847ec77044899618cfd66" title="Returns the month on the Real&#45;Time Clock. " alt="" coords="141,56,217,83"/>
+<area shape="rect" id="node6" href="$group__rtc.html#ga37f344d06f4e1b826aed5adf7b729fe8" title="Returns the year on the Real&#45;Time Clock. " alt="" coords="146,107,213,133"/>
+<area shape="rect" id="node7" href="$group__rtc.html#ga57e0eac5ae1c791f2c63b0740ab94e08" title="Returns the seconds on the Real&#45;Time Clock. " alt="" coords="148,157,211,184"/>
+<area shape="rect" id="node8" href="$group__rtc.html#ga59e635249f9555c53ddc24e54b82f01f" title="Returns the minutes on the Real&#45;Time Clock. " alt="" coords="149,208,210,235"/>
+<area shape="rect" id="node9" href="$group__rtc.html#gaa14f12da2be63f2a594cadff28d10f40" title="Returns the hour on the Real&#45;Time Clock. " alt="" coords="146,259,213,285"/>
+<area shape="rect" id="node3" href="$group__rtc.html#ga0eacd2fb5986b142e032ab0f8365a542" title="Reads content on register. " alt="" coords="299,107,371,133"/>
+<area shape="rect" id="node4" href="$group__utilities.html#gaa62d5f8252ae370122486e82d3fb7de9" title="Converts a BCD number to Binary. " alt="" coords="265,157,404,184"/>
+</map>
